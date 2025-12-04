@@ -1,0 +1,17 @@
+name: flutter_ui_clone
+description: A ready-made Flutter project (static UI clone)
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/wallpaper.png
+    - assets/icons/
